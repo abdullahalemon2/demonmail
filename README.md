@@ -1,5 +1,10 @@
-# demonmail
+demonmail
+---
 Temporary Email Genaretor By Demon 👽
+
+
+Screenshot
+---
 
 ### Setting Up And Usage
 `git clone https://github.com/abdullahalemon2/demonmail`
