@@ -7,11 +7,11 @@ Temporary Email Genaretor By Demon 👽
 ----
 
 ### Setting Up And Usage
-`git clone https://github.com/abdullahalemon2/demonmail`
+* `git clone https://github.com/abdullahalemon2/demonmail`
 
-`cd demonmail`
+* `cd demonmail`
 
-`python demon.py`
+* `python demon.py`
 
 * Usage
 
